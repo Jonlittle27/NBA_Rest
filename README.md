@@ -3,7 +3,7 @@
 
 Predicts NBA Game Outcomes using Random Forest Classifier and Logistic Regression
 
-#Execution
+#**Execution**
 
 The code in the notebooks is completely reproducible and mutliple consistent seeds were set.  In order to run the notebooks externally, I suggest installing the sportsreference API first then proceeding to the preparation notebooks.  In here the test and training files can both be run from the start as a whole kernel respectively.  After these are executed, two csv files will populate in a data folder, this can be renamed according to your liking.  
 
